@@ -1,6 +1,6 @@
 🧵 LoreWeaver
 
-LoreWeaver is a simple terminal-based AI assistant that answers your questions using custom documents. It uses LangChain, FAISS for vector search, and HuggingFace Transformers for generating answers.
+LoreWeaver is a simple terminal-based AI assistant using the Llama 4 maverick AI model that answers your questions using custom documents. It can not access the internet.
 
 📦 Features
 Load your own .txt or .pdf files
