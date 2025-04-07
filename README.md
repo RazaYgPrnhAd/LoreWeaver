@@ -1,6 +1,6 @@
 🧵 LoreWeaver
 
-LoreWeaver is a simple terminal-based AI assistant using the Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
+LoreWeaver is a simple terminal-based AI assistant using OpenRouter to interface with Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
 
 📦 Features
 Load your own .txt or .pdf files
@@ -25,15 +25,16 @@ Install required packages:
 pip install -r requirements.txt 
 ```
 
-📂 Folder Structure
-LoreWeaver/
-├── reference_files/        ← Put your `.txt` or `.pdf` files here
-├── main.py                 ← Main script
-├── .env                    ← API token
-├── requirements.txt        ← Dependency list
-└── README.md
 🧠 How to Use
 Add your reference files into the reference_files folder.
+
+Add your Openrouter API Key inside the .env file:
+
+```
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+SAME_API_KEY=your_openrouter_api_key_here
+
+```
 
 Run the script:
 
