@@ -1,0 +1,7 @@
+langchain
+langchain-community
+faiss-cpu
+transformers
+huggingface_hub
+pymupdf
+python-dotenv
