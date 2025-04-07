@@ -14,19 +14,23 @@ Source files used for answers are also shown
 Clone the repository:
 
 
-```git clone https://github.com/yourusername/LoreWeaver.git
+```
+git clone https://github.com/yourusername/LoreWeaver.git
 cd LoreWeaver
 ```
 
 Install required packages:
 
-```pip install -r requirements.txt 
+```
+pip install -r requirements.txt 
 ```
 
 ⚙️ Environment Setup
 Create a .env file in the root directory with your Openrouter API:
+```
 OPENROUTER_API_KEY=your_openrouter_api_here
 OPENAI_API_KEY=your_openrouter_api_here
+```
 
 📂 Folder Structure
 LoreWeaver/
@@ -40,7 +44,8 @@ Add your reference files into the reference_files folder.
 
 Run the script:
 
-```python main.py
+```
+python main.py
 ```
 
 Type your question in the terminal.
