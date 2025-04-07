@@ -16,7 +16,7 @@ Clone the repository:
 
 ```git clone https://github.com/yourusername/LoreWeaver.git
 cd LoreWeaver
-
+`
 Install required packages:
 
 ```pip install -r requirements.txt 
