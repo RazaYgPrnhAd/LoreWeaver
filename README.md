@@ -15,34 +15,20 @@ Clone the repository:
 
 
 ```git clone https://github.com/yourusername/LoreWeaver.git
-cd LoreWeaver```
+cd LoreWeaver
+```
 Install required packages:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-(Optional) Use a virtual environment:
+```pip install -r requirements.txt
+```
 
-bash
-Copy
-Edit
-python -m venv venv
-venv\Scripts\activate  # Windows
-source venv/bin/activate  # macOS/Linux
+
 ⚙️ Environment Setup
-Create a .env file in the root directory with your Hugging Face API token:
-
-ini
-Copy
-Edit
-HUGGINGFACEHUB_API_TOKEN=your_token_here
-Get your token at huggingface.co/settings/tokens
+Create a .env file in the root directory with your Openrouter API:
+OPENROUTER_API_KEY=your_openrouter_api_here
+OPENAI_API_KEY=your_openrouter_api_here
 
 📂 Folder Structure
-css
-Copy
-Edit
 LoreWeaver/
 ├── reference_files/        ← Put your `.txt` or `.pdf` files here
 ├── main.py                 ← Main script
@@ -54,8 +40,8 @@ Add your reference files into the reference_files folder.
 
 Run the script:
 
-bash
-python main.py
+```python main.py
+```
 Type your question in the terminal.
 
 Get the answer and see which documents were used to generate it.
