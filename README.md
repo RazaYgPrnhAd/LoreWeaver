@@ -26,13 +26,6 @@ Install required packages:
 pip install -r requirements.txt 
 ```
 
-⚙️ Environment Setup
-Create a .env file in the root directory with your Openrouter API:
-```
-OPENROUTER_API_KEY=your_openrouter_api_here
-OPENAI_API_KEY=your_openrouter_api_here
-```
-
 📂 Folder Structure
 LoreWeaver/
 ├── reference_files/        ← Put your `.txt` or `.pdf` files here
