@@ -15,12 +15,10 @@ Clone the repository:
 
 
 ```git clone https://github.com/yourusername/LoreWeaver.git
-cd LoreWeaver
-```
+cd LoreWeaver ```
 Install required packages:
 
-```pip install -r requirements.txt
-```
+```pip install -r requirements.txt ```
 
 
 ⚙️ Environment Setup
@@ -40,8 +38,7 @@ Add your reference files into the reference_files folder.
 
 Run the script:
 
-```python main.py
-```
+```python main.py ```
 Type your question in the terminal.
 
 Get the answer and see which documents were used to generate it.
