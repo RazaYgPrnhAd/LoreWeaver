@@ -1,6 +1,6 @@
 🧵 LoreWeaver
 
-LoreWeaver is a simple terminal-based AI assistant using the Llama 4 Maverick AI model that answers your questions using custom documents. It can not access the internet.
+LoreWeaver is a simple terminal-based AI assistant using the Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
 
 📦 Features
 Load your own .txt or .pdf files
