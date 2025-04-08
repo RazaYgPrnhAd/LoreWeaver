@@ -5,6 +5,6 @@ faiss-cpu
 transformers
 huggingface_hub
 pymupdf
-sentence-tranformers
+sentence-transformers
 --upgrade sentence-transformers
 python-dotenv
