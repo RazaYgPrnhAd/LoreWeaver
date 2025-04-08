@@ -5,3 +5,4 @@ transformers
 huggingface_hub
 pymupdf
 python-dotenv
+sentence-tranformers
