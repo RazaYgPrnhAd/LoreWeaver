@@ -15,7 +15,7 @@ Source files used for answers are also shown
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/Weavyrn.git
+git clone https://github.com/RazaYgPrnhAd/Weavyrn.git
 cd LoreWeaver
 ```
 
