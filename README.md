@@ -1,6 +1,6 @@
-🧵 LoreWeaver
+🧵 Weavyrn 
 
-LoreWeaver is a simple terminal-based AI assistant using OpenRouter to connect with Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
+Weavyrn is a simple terminal-based AI assistant using OpenRouter to connect with Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
 
 📦 Features
 Load your own .txt or .pdf files
@@ -15,7 +15,7 @@ Source files used for answers are also shown
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/LoreWeaver.git
+git clone https://github.com/yourusername/Weavyrn.git
 cd LoreWeaver
 ```
 
