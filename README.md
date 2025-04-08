@@ -16,7 +16,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/RazaYgPrnhAd/Weavyrn.git
-cd LoreWeaver
+cd Weavyrn
 ```
 
 Install required packages:
