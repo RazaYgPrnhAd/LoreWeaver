@@ -1,3 +1,4 @@
+sentence-transformers
 torch
 langchain
 langchain-community
@@ -5,6 +6,5 @@ faiss-cpu
 transformers
 huggingface_hub
 pymupdf
-sentence-transformers
 python-dotenv
 openai
