@@ -6,5 +6,4 @@ transformers
 huggingface_hub
 pymupdf
 sentence-transformers
---upgrade sentence-transformers
 python-dotenv
